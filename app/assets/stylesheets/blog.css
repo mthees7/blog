@@ -1,0 +1,14 @@
+/*=============================================
+                  CSS
+=============================================*/
+
+div.post-info {
+  display: inline-block;
+}
+
+div.post-links {
+  display: inline;
+  float: right;
+  padding-top: 30px;
+}
+
